@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Plotarkis
+- 👀 I’m interested in cyber security and bash scripting
+- 🌱 I’m currently learning cyber security under Centre For Cybersecurity in Singapore
+- 📫 How to reach me: tareeshi98@gmail.com
